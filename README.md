@@ -3,7 +3,7 @@ s5724090 Collecting Data assignment 3a
 ## Analyzing anime; a notebook.
 
 ### Dataset 
-The dataset I used is called Anime Dataset with Reviews by Marlesson on Kaggle. It contains 3 csv files: animes, profiles and reviews.
+The dataset I used is called Anime Dataset with Reviews by Marlesson on Kaggle. It contains 3 csv files: animes, profiles and reviews. I uploaded the dataset to the master branch.
 Here is a list with columns per file, I do not include columns I deleted:
 #### animes
 * uid (the id of the anime)
